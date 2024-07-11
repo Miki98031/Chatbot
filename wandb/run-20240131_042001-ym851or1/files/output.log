@@ -1,0 +1,8 @@
+C:\Users\mihai\anaconda3\Lib\site-packages\transformers\data\datasets\language_modeling.py:53: FutureWarning: This dataset will be removed from the library soon, preprocessing should be handled with the 🤗 Datasets library. You can have a look at this example script for pointers: https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling/run_mlm.py
+  warnings.warn(
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+ Can you explain the importance of demonstrating leadership and commitment in the organization's context?","Top leadership can demonstrate leadership and commitment by demonstrating leadership and commitment to the organization's context, as well as their ability to lead."
+"Please answer the following question about ISO 9001 document. Answer it like you are a expert answering ISO 9001 questions. Only answer the given question, no extra output please.
+ISO9001 question:
+ What is the role of the PDCA cycle in the organization's context?",The PDCA cycle is used to align or integrate processes and its associated management systems. It helps align or integrate processes and its associated management systems.
